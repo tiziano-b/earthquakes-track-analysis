@@ -7,7 +7,7 @@ In addition, it extracts and shows from the identified articles the sentences re
 ## Getting Started
 
 The solution has been developed using Ambari.<br/>
-On this repository has been uploaded only a small part of the solution, an HIVE SQL script (with related Java UDF) to merge together data related to a dataset of earthquakes.<br/>
+On this repository has been uploaded only a small part of the solution, an HIVE SQL script (with related Java UDFs) to merge together data related to a dataset of earthquakes.<br/>
 The script identifies the closest City and Seismometer affected by the earthquake.
 
 ### Prerequisites
